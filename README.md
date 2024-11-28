@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rayen-Slouma&show_icons=true&theme=synthwave" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayen-Slouma&hide_progress=true&theme=synthwave" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayen-Slouma&hide_progress=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ###
