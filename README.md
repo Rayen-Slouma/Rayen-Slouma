@@ -1,14 +1,6 @@
-<h2 align="left">Hi 👋! My name is Rayen and I'm a software engineering student, from Tunisia</h2>
+<h2 align="left">Hi 👋! My name is Rayen and I'm a software engineer, from Tunisia</h2>
 <div align="center">I am passionate about technologies that simplify life and always up for challenges and solving problems </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayen-Slouma&show_icons=true&include_all_commits=true&theme=synthwave" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayen-Slouma&layout=compact&langs_count=6&theme=synthwave" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVhM3YyaTZveDY5b2kyaGY1dzIwZ2Zqam1hZmY4YjkyMTJkMXkwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vqxviVfqGAa14SgeiC/giphy.gif"  />
 
